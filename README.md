@@ -17,7 +17,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:aliias2603@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:contact@chala.dev) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
