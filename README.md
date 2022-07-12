@@ -48,4 +48,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ichala)](https://git.io/streak-stats)
