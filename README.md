@@ -46,6 +46,3 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ⏳  Longest streak is 15 days
 <!-- TODO-IST:END -->
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ichala)](https://git.io/streak-stats)
