@@ -1,13 +1,12 @@
 
+![](https://visitor-badge.glitch.me/badge?page_id=ichala)
 <a href="https://chala.dev">
 <img align="center" alt="Ali LinkedIN" width="100%" src="https://user-images.githubusercontent.com/89282221/201471818-bad492ee-ce0d-406d-83f6-e25d2b2033a5.gif" />
 </a>
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Ali Jendoubi AKA Chala</h1>
 <h3 align="center">A passionate Self-Taught Full-Stack Software Developer From Tunisia. My passion for developement lies With dreaming up ideas and making them come true with elegant interfaces.</h3>
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-![](https://visitor-badge.glitch.me/badge?page_id=ichala)
-</p>
+
 <p align="center">
 <a href="https://twitter.com/_ichala" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="_ichala" height="30" width="22px"/></a>
 <a href="https://www.youtube.com/c/ichala" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" alt="ichala" height="30" width="40" /></a>
