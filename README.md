@@ -33,7 +33,7 @@ Stats           | Streak
 - ⏳ Currently,Looking for a job 
 </p>
 <p align="center"> 
-- 💼 any freelance work? do reach, [email](mailto:contact@chala.dev)
+- 💼 any freelance work? do reach, <a href="mailto:contact@chala.dev">email</a>
 </p>
 <p align="center"> 
 - 💬 ask me about React, NextJs, Rails ..., i am happy to help;
