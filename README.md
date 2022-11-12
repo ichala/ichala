@@ -1,7 +1,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ichala)
+
+
 <a href="https://chala.dev">
-<img align="center" alt="Ali LinkedIN" width="100%" src="https://user-images.githubusercontent.com/89282221/201471818-bad492ee-ce0d-406d-83f6-e25d2b2033a5.gif" />
+<img align="center" alt="Ali LinkedIN" width="100%" src="https://user-images.githubusercontent.com/89282221/201472642-7f5f9cc8-3c5c-4629-bddc-6defcd818e42.gif" />
 </a>
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Ali Jendoubi AKA Chala</h1>
 <h3 align="center">A passionate Self-Taught Full-Stack Software Developer From Tunisia. My passion for developement lies With dreaming up ideas and making them come true with elegant interfaces.</h3>
